@@ -1,0 +1,87 @@
+body {
+	background-color: ivory;
+	text-align: center;
+}
+
+h1	{
+	color: black;
+	text-align: center;
+  	text-decoration-line: underline;
+  	text-decoration-style: dotted;
+  	font-family: "Lucida Console", "Courier New", monospace;	
+}
+header {
+	text-align: center;
+  	text-decoration-line: solid;
+  	text-decoration-style: dashed;
+
+}
+
+button {
+	text-align: center;
+	padding: 15px;
+	border-color: navy;
+	border-style: groove;
+	font-size: 20px;
+	background color-sandy brown;
+
+}
+
+div {
+	border: 7px groove black;	
+	background-color: light grey;	
+	text-align: center
+	
+}
+
+#hobby2 {
+	background-color: black
+	border:10 px solid navy	
+ 	text-align: center;
+	border: 5px solid navy;
+{
+
+#hobby2 {
+	background-color: black
+	border:10 px solid navy	
+ 	text-align: center;
+	border: 5px solid navy;
+	font-family: calibri;
+	outline: white;
+{
+
+#hobby3 {
+ 	text-align: center;
+	border: 5px solid navy;
+	background-image: url ("images/beach.jpg")
+	background-color: black
+
+{
+details {
+	text-align: center;
+	font-family: calibri
+  	font-size: 30px;
+	font-color:
+	background-color: black;
+}
+
+summary {
+	text-align: center;
+	font-family: font-family: "Lucida Console", "Courier New", monospace;
+ 	font-size: 50px;
+	background-color: white;
+}
+
+img {
+	margin:auto;
+	border-radius: 8px;
+}	
+
+a {
+	color
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}

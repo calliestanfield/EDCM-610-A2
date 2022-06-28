@@ -1,0 +1,85 @@
+body {
+	background-color: sandybrown;
+	text-align: center;
+}
+
+h1	{
+	color: black;
+	text-align: center;
+  	text-decoration-line: underline;
+  	text-decoration-style: dotted;
+  	font-family: "Lucida Console", "Courier New", monospace;	
+}
+header {
+	border-style: solid;
+	border-color: black;
+	font-size: 100px;
+	text-align: center;
+
+}
+
+button {
+	text-align: center;
+	padding: 15px;
+	border-color: grey;
+	border-style: groove;
+	font-size: 20px;
+	background color- ivory;
+
+}
+
+div {
+	border: 5px groove white;	
+	background-color: light grey;	
+	text-align: center
+	
+}
+
+#hobby1 {
+	background-color: sandybrown;
+	border:10 px groove white;	
+ 	text-align: center;
+	border: 5px solid white;
+{
+
+#hobby2 {
+	background-color: white;
+	border:10 px solid black;	
+ 	text-align: center;
+	border: 5px solid white;
+{
+
+#hobby3 {
+	background-color: white;
+	border:10 px solid black;	
+ 	text-align: center;
+	border: 5px solid navy;
+{
+details {
+	text-align: center;
+	font-family: calibri
+  	font-size: 30px;
+	font-color:
+	background-color: black;
+}
+
+summary {
+	text-align: center;
+	font-family: font-family: "Lucida Console", "Courier New", monospace;
+ 	font-size: 50px;
+	background-color: white;
+}
+
+img {
+	margin:auto;
+	border-radius: 8px;
+}	
+
+a {
+	color
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
