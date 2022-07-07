@@ -4,23 +4,24 @@ body {
 }
 
 h1	{
-	color: black;
+	color: ivory;
 	text-align: center;
   	text-decoration-line: underline;
-  	text-decoration-style: dotted;
-  	font-family: "Lucida Console", "Courier New", monospace;	
+	
 }
 header {
 	border-style: solid;
 	border-color: black;
 	font-size: 100px;
 	text-align: center;
+	font-size: 100px;
 
 }
 
 button {
 	text-align: center;
-	padding: 15px;
+	padding: 50px;
+	color: black;	
 	border-color: grey;
 	border-style: groove;
 	font-size: 20px;
@@ -29,38 +30,36 @@ button {
 }
 
 div {
-	border: 5px groove white;	
-	background-color: light grey;	
+	border: 30px solid white;	
 	text-align: center
 	
 }
 
 #hobby1 {
 	background-color: sandybrown;
-	border:10 px groove white;	
+	border:10 px groove grey;	
  	text-align: center;
-	border: 5px solid white;
+	border: 30px solid white;
 {
 
 #hobby2 {
 	background-color: white;
 	border:10 px solid black;	
  	text-align: center;
-	border: 5px solid white;
+	border: 30px solid white;
 {
 
 #hobby3 {
 	background-color: white;
 	border:10 px solid black;	
  	text-align: center;
-	border: 5px solid navy;
+	border: 30px solid navy;
 {
 details {
 	text-align: center;
 	font-family: calibri
   	font-size: 30px;
-	font-color:
-	background-color: black;
+	font-color: dark grey
 }
 
 summary {
@@ -72,7 +71,7 @@ summary {
 
 img {
 	margin:auto;
-	border-radius: 8px;
+	border-radius: 50px;
 }	
 
 a {

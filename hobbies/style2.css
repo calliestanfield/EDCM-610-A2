@@ -1,87 +1,25 @@
-body {
-	background-color: ivory;
-	text-align: center;
-}
+body{background-color: teal;}
+header{font-size: 40px; color:#ff0066; text-align:center; }
+button{font-size: 20px; padding: 50px; background-color: black;margin-left: 200px; color: teal; text-align:center;class:w3-round-large;}
+div{border: 10px solid ;
+margin-top: 100px;
+  margin-bottom: 300px;
+  margin-right: 300px;
+  margin-left: 300px;
+ text-align:center;}
+h1{color: black;}
+details{color: black}
+summary{color: black;}
+footer{border: 6px solid light-pink;color:white; text-align:center;}
+img{border: 5px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 200px;
+  margin: auto;}
+a{color: navy;}  
 
-h1	{
-	color: black;
-	text-align: center;
-  	text-decoration-line: underline;
-  	text-decoration-style: dotted;
-  	font-family: "Lucida Console", "Courier New", monospace;	
-}
-header {
-	text-align: center;
-  	text-decoration-line: solid;
-  	text-decoration-style: dashed;
+#hobby1{border-style: dashed; background-color: ivory;  }
 
-}
+#hobby2{border-style: dotted; background-color: white; }
 
-button {
-	text-align: center;
-	padding: 15px;
-	border-color: navy;
-	border-style: groove;
-	font-size: 20px;
-	background color-sandy brown;
-
-}
-
-div {
-	border: 7px groove black;	
-	background-color: light grey;	
-	text-align: center
-	
-}
-
-#hobby2 {
-	background-color: black
-	border:10 px solid navy	
- 	text-align: center;
-	border: 5px solid navy;
-{
-
-#hobby2 {
-	background-color: black
-	border:10 px solid navy	
- 	text-align: center;
-	border: 5px solid navy;
-	font-family: calibri;
-	outline: white;
-{
-
-#hobby3 {
- 	text-align: center;
-	border: 5px solid navy;
-	background-image: url ("images/beach.jpg")
-	background-color: black
-
-{
-details {
-	text-align: center;
-	font-family: calibri
-  	font-size: 30px;
-	font-color:
-	background-color: black;
-}
-
-summary {
-	text-align: center;
-	font-family: font-family: "Lucida Console", "Courier New", monospace;
- 	font-size: 50px;
-	background-color: white;
-}
-
-img {
-	margin:auto;
-	border-radius: 8px;
-}	
-
-a {
-	color
-	text-align: center;
-}
-
-footer {
-	text-align: center;
-}
+#hobby3{ border-style: dashed; background-color: ivory; }
